@@ -23,7 +23,13 @@ This repository consists of MATLAB implementations of general numerical methods 
    2. RK4 (single and system of ODEs)
    3. Euler and Modified Euler
    4. Finite differences
-   
+
+5. Least squares regression algorithms
+   1. SVD
+   2. Modified Gram-Schmidt algorithm (QR factorisation)
+   3. Householder triangularisation
+
+      
 General helper functions
 1. Signum function
 2. find_coefficients.m
