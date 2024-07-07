@@ -12,4 +12,6 @@ This repo consists of MATLAB implementations of general numerical methods that a
    b. Hermite interpolation
    c. Cubic spline interpolation
 
+   
+
 
